@@ -19,7 +19,7 @@ public class BillingSystem {
         frame.setLayout(new BorderLayout());
 
         // Head
-        JLabel head = new JLabel("SK JHA & ASSOCIATES BILLING SYSTEM", JLabel.CENTER);
+        JLabel head = new JLabel("BILLING SYSTEM", JLabel.CENTER);
         head.setFont(new Font("Bodoni", Font.BOLD, 20));
         head.setOpaque(true);
         head.setBackground(Color.GRAY);
